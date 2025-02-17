@@ -137,7 +137,7 @@ public class ViewManager {
 		
 		//Label score1 = new Label(HighScore);
 		Label score2 = new Label("    Fahad         	        1096");
-		Label score3 = new Label("    Active                  	 854");
+		Label score3 = new Label("    Alizay            	  854");
 		
 		scoreHeading.setFont(Font.font("Verdana",20));
 		
